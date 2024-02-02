@@ -47,5 +47,6 @@ Pembagian Tim
 Demo Proyek
 -
 
-    Github: 
+    Github: https://github.com/fauzan010/Final-Proyek-Struktur-Data/blob/main/StrukturData_Final.java
+    Youtube:
     
