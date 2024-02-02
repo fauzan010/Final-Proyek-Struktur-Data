@@ -31,10 +31,21 @@ Penjelasan Proyek
 Komponen Proyek
 -
 
-    codingan dari awal sampai kalkulasi bansos di jelaskan oleh fauzan sebagai anggota 1 , lalu codingan dari pilihan bansos sampai menu akhir di jelaskeun oleh ginda   sebagai anggota 2 , yang terakhir codingan dan hasil output dari seluruh codingan tersebut di jelaskan oleh albany sebagai ketua
+    codingan dari awal sampai kalkulasi bansos di jelaskan oleh fauzan sebagai anggota 1 , lalu codingan dari 
+    pilihan bansos sampai menu akhir di jelaskeun oleh ginda   sebagai anggota 2 , yang terakhir codingan dan 
+    hasil output dari seluruh codingan tersebut di jelaskan oleh albany sebagai ketua
 
 Pembagian Tim
 -
 
-    
+     Pembagian tim ini
+    - codingan dari line 1 - 126 dijelaskan oleh fauzan sebagai anggota 1
+    - dari line 127 - sampai baris akhir dijelaskan oleh ginda sebagai anggota 2
+    - dan codingan beserta hasil output di jelaskan keseluruhan oleh albany sebagai ketua
+    - pembuatan github ini di buat oleh seluruh anggota kelompok   
+
+Demo Proyek
+-
+
+    Github: 
     
