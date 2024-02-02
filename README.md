@@ -30,17 +30,17 @@ maka akan menampilkan semua penerima yang memilih "Mie". Yang terakhir kami memb
 
 Komponen Proyek
 -
-codingan dari awal sampai kalkulasi bansos di jelaskan oleh fauzan sebagai anggota 1, lalu codingan dari 
-pilihan bansos sampai menu akhir di jelaskan oleh ginda sebagai anggota 2, yang terakhir codingan dan 
-hasil output dari seluruh codingan tersebut di jelaskan oleh albany sebagai ketua
+Codingan dari awal sampai kalkulasi bansos di jelaskan oleh Fauzan sebagai anggota 1, lalu codingan dari 
+pilihan bansos sampai menu akhir di jelaskan oleh Ginda sebagai anggota 2, yang terakhir codingan dan 
+hasil output dari seluruh codingan tersebut di jelaskan oleh Albany sebagai ketua.
 
 Pembagian Tim
 -
 Pembagian tim ini
-- codingan dari line 1 - 126 dijelaskan oleh fauzan sebagai anggota 1
-- dari line 127 - sampai baris akhir dijelaskan oleh ginda sebagai anggota 2
-- dan codingan beserta hasil output di jelaskan keseluruhan oleh albany sebagai ketua
-- pembuatan github ini di buat oleh seluruh anggota kelompok   
+- Codingan dari line 1 - 126 dijelaskan oleh Fauzan sebagai anggota 1
+- Dari line 127 - sampai baris akhir dijelaskan oleh Ginda sebagai anggota 2
+- Dan codingan beserta hasil output di jelaskan keseluruhan oleh Albany sebagai ketua
+- Pembuatan github ini di buat oleh seluruh anggota kelompok   
 
 Demo Proyek
 -
