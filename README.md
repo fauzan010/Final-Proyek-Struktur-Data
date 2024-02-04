@@ -30,9 +30,7 @@ maka akan menampilkan semua penerima yang memilih "Mie". Yang terakhir kami memb
 
 Komponen Proyek
 -
-Codingan dari awal sampai kalkulasi bansos di jelaskan oleh Fauzan sebagai anggota 1, lalu codingan dari 
-pilihan bansos sampai menu akhir di jelaskan oleh Ginda sebagai anggota 2, yang terakhir codingan dan 
-hasil output dari seluruh codingan tersebut di jelaskan oleh Albany sebagai ketua.
+Terdapat 5 Komponen dalam sistem bansos ini, yaitu Queue, Linkedlist, Record, Array, dan Searching
 
 Pembagian Tim
 -
