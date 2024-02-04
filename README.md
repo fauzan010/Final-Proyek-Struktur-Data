@@ -30,7 +30,7 @@ maka akan menampilkan semua penerima yang memilih "Mie". Yang terakhir kami memb
 
 Komponen Proyek
 -
-Terdapat 5 Komponen dalam sistem bansos ini, yaitu Queue, Linkedlist, Record, Array, dan Searching
+Terdapat 5 Komponen dalam sistem bansos ini yaitu, Queue, Linkedlist, Record, Array, dan Searching
 
 Pembagian Tim
 -
